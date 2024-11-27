@@ -1,10 +1,12 @@
-![github_profile](https://github.com/user-attachments/assets/7f529277-7217-4a8b-b044-d93e7cca617e)
+<!--타이틀 부분-->
+<div align="center">
+  <img width= "1000px" src="https://github.com/user-attachments/assets/7f529277-7217-4a8b-b044-d93e7cca617e" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=davinyakma&show_icons=true&theme=radical" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davinyakma" />
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+My+name+is+Davin+Choi;My+major+is+Information+Security)](https://github.com/davinyakma/davinyakma/blob/main/README.md)
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdavinyakma&count_bg=%2344EEAD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-![Davinyakma's GitHub stats](https://github-readme-stats.vercel.app/api?username=davinyakma&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davinyakma)
 
 
 
