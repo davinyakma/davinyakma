@@ -1,7 +1,4 @@
-<div style='position: relative; width: 100%; height: 0; padding-top: 58.0046403712297%; overflow: hidden; will-change: transform;'>
-            <iframe loading='lazy' style='position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;' src='https:&#x2F;&#x2F;www.miricanvas.com&#x2F;v&#x2F;13yrdsh?embed'>
-            </iframe>
-        </div>
+![github_profile](https://github.com/user-attachments/assets/7f529277-7217-4a8b-b044-d93e7cca617e)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+My+name+is+Davin+Choi;My+major+is+Information+Security)](https://github.com/davinyakma/davinyakma/blob/main/README.md)
 
