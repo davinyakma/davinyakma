@@ -3,6 +3,8 @@
             </iframe>
         </div>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdavinyakma&count_bg=%2344EEAD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **davinyakma/davinyakma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
