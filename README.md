@@ -1,14 +1,17 @@
-<!--타이틀 부분-->
+<!-- 타이틀 부분 -->
 <div align="center">
-  <img width= "695px" height = "300px" src="https://github.com/user-attachments/assets/7f529277-7217-4a8b-b044-d93e7cca617e" />
+  <img width="695px" height="300px" src="https://github.com/user-attachments/assets/7f529277-7217-4a8b-b044-d93e7cca617e" />
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=davinyakma&show_icons=true&theme=radical" />
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davinyakma" />
+  
+  <!-- Typing SVG 애니메이션 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=44EEAD&center=true&vCenter=true&width=600&height=50&lines=Hello+My+name+is+Davin+Choi;My+major+is+Information+Security" alt="Typing SVG" />
+
+  <!-- Hits 카운터 -->
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdavinyakma&count_bg=%2344EEAD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits">
+  </a>
 </div>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+My+name+is+Davin+Choi;My+major+is+Information+Security)](https://github.com/davinyakma/davinyakma/blob/main/README.md)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdavinyakma&count_bg=%2344EEAD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
 
 <!--
 **davinyakma/davinyakma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
