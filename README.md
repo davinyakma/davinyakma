@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img width= "1000px" src="https://github.com/user-attachments/assets/7f529277-7217-4a8b-b044-d93e7cca617e" />
+  <img width= "695px" height = "300px" src="https://github.com/user-attachments/assets/7f529277-7217-4a8b-b044-d93e7cca617e" />
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=davinyakma&show_icons=true&theme=radical" />
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davinyakma" />
 </div>
