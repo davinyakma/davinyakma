@@ -1,7 +1,7 @@
 <!-- 타이틀 부분 -->
 <div align="center">
   <!-- 상단 배너 이미지 -->
-  <img width="80%" src="https://github.com/user-attachments/assets/7f529277-7217-4a8b-b044-d93e7cca617e" alt="Banner" style="max-width: 890px; height: 300px; object-fit: contain; border-radius: 10px;" />
+  <img width="100%" src="https://github.com/user-attachments/assets/7f529277-7217-4a8b-b044-d93e7cca617e" alt="Banner" style="max-width: 890px; height: 300px; object-fit: contain; border-radius: 10px;" />
   
   <!-- GitHub Stats 및 solved.ac 뱃지 -->
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 20px;">
