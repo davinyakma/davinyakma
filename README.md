@@ -33,22 +33,33 @@
       alt="Typing SVG" />
   </div>
 
-  <!-- Social 뱃지 -->
+  <!-- My email 섹션 -->
+  <h3 style="color: #92b8cd; margin-bottom: 10px;">📧 My email</h3>
   <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px;">
     <a href="mailto:choidavin3652@gmail.com" style="text-decoration: none;">
       <img 
         src="https://img.shields.io/badge/Gmail-92b8cd?style=for-the-badge&logo=gmail&logoColor=white" 
         alt="Gmail" />
     </a>
-    <a href="https://poohcdv3652@naver.com" style="text-decoration: none;">
+    <a href="mailto:poohcdv3652@naver.com" style="text-decoration: none;">
       <img 
         src="https://img.shields.io/badge/Naver-92b8cd?style=for-the-badge&logo=naver&logoColor=white" 
         alt="Naver" />
     </a>
+  </div>
+
+  <!-- Blog & Note 섹션 -->
+  <h3 style="color: #92b8cd; margin-bottom: 10px;">✨ Blog & Note</h3>
+  <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px;">
     <a href="https://velog.io/@davinyakma" style="text-decoration: none;">
       <img 
         src="https://img.shields.io/badge/Velog-92b8cd?style=for-the-badge&logo=velog&logoColor=white" 
         alt="Velog" />
+    </a>
+    <a href="https://www.notion.so/eb2e3ec7f7634a46a65e4dfce0bb0b02" style="text-decoration: none;">
+      <img 
+        src="https://img.shields.io/badge/Notion-92b8cd?style=for-the-badge&logo=notion&logoColor=white" 
+        alt="Notion" />
     </a>
   </div>
 
