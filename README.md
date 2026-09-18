@@ -4,8 +4,10 @@
   <img width="92%" src="https://github.com/user-attachments/assets/7f529277-7217-4a8b-b044-d93e7cca617e" 
     alt="Banner" 
     style="max-width: 890px; height: 300px; object-fit: contain; border-radius: 10px;" />
+
   
   <!-- GitHub Stats 및 Most Used Languages -->
+  <!--
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 20px;">
     <img 
       height="180px" 
@@ -16,6 +18,8 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=davinyakma&layout=compact&bg_color=30,92b8cd,e3b09f&title_color=ffffff&text_color=ffffff" 
       alt="Top Languages" />
   </div>
+  -->
+  
   
   <!-- solved.ac Badge -->
   <div style="margin: 20px 0;">
